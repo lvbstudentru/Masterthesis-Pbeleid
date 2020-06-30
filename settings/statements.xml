@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+<statements version="1.0" htmlParse="false">
+  <statement id="1">Parkeerbeleid kan een factor zijn in het promoten en populair maken van een gebied</statement>
+  <statement id="2">Als OV -en fietsnetwerken van hogere kwaliteit zouden zijn, zou een aanzienljk deel van autogebruikers de auto vaker laten staan</statement>
+  <statement id="3">Het geld dat gemeenten ophalen met parkeerexploitatie zouden zij vrij moeten kunnen besteden</statement>
+  <statement id="4">Eigenlijk zijn er niet echt regels die specifiek te maken hebben met parkeerbeleid</statement>
+  <statement id="5">Regelgeving maakt dat gemeenten niet naar volledig eigen wens hun parkeerbeleid kunnen vormgeven</statement>
+  <statement id="6">We hebben genoeg informatie om onderbouwde en rationele keuzes te maken in parkeerbeleid</statement>
+  <statement id="7">Er worden pas echt parkeerproblemen ervaren wanneer het aanbod van parkeerplaatsen niet kan voldoen aan de vraag</statement>
+  <statement id="8">Pilots en experimenten met parkeren kennen meer voordelen dan nadelen</statement>
+  <statement id="9">De auto is de belangrijkste vervoersmethode van mensen</statement>
+  <statement id="10">Parkeren is een belangrijk element van het ruimtelijke ordeningsdomein</statement>
+  <statement id="11">Gemeenten moeten het opgehaalde parkeergeld in een wijk herinvesteren in dezelfde wijk</statement>
+  <statement id="12">Verhoging van parkeertarieven in winkelgebieden zijn nadelig voor winkeliers</statement>
+  <statement id="13">Bewoners zullen openstaan voor hogere parkeertarieven in hun wijk als de leefbaarheid van de wijk daardoor hoger wordt</statement>
+  <statement id="14">Burgers willen graag actief participeren in de ontwikkelingen en investeringen in hun wijk</statement>
+  <statement id="15">Bezoekers willen best meer betalen om te parkeren, als ze weten dat het parkeergeld nuttig besteed wordt</statement>
+  <statement id="16">Parkeerplaatsen zijn gemeenschappelijk eigenschap</statement>
+  <statement id="17">De kosten voor het aanbieden van parkeerplaatsen moeten zoveel mogelijk in rekening gebracht worden bij degenen die er gebruik van maken</statement>
+  <statement id="18">Als maatschappelijk draagvlak voor een overheidsinterventie ontbreekt, moet het van de beleidsagenda geschrapt worden</statement>
+  <statement id="19">Parkeer-tarieven zouden gemiddeld gezien hoger moeten zijn in Nederland</statement>
+  <statement id="20">De juridische regelgeving vanuit het rijk aangaande parkeerbeleid van gemeenten vind ik te streng</statement>
+  <statement id="21">Er zouden op rijks- of provicieniveau hardere eisen aan parkeerbeleid van gemeenten gesteld moeten worden</statement>
+  <statement id="22">Het feit dat in veel verschillende gemeenten veel verschillende regelgeving mbt parkeren bestaat is een slechte zaak</statement>
+  <statement id="23">Tegengaan van parkeeroverloop moet de hoogste prioriteit krijgen in parkeerbeleid</statement>
+  <statement id="24">Parkeerbeleid moet primair gevormd worden aan de hand van kennis en empirische data over het parkeerdomein</statement>
+  <statement id="25">Bij het opstellen van parkeerbeleid moet de wil van de inwoners centraal staan</statement>
+  <statement id="26">Marktwerking leidt niet tot het juiste aanbod van parkeerplaatsen, dus overheidsingrijpen is nodig</statement>
+  <statement id="27">Bij parkeerbeleid dient de autorijder zoveel mogelijk gefaciliteerd te worden</statement>
+  <statement id="28">Park &amp; ride is een concept dat goed werkt</statement>
+  <statement id="29">Gemeenten moeten belanghebbenden actief betrekken bij het opstellen van parkeerregelingen</statement>
+  <statement id="30">Het algemeen belang is belangrijker bij parkeerbeleid dan het belang van hen die direct betrokken zijn bij parkeerregelingen</statement>
+  <statement id="31">Het verhogen van parkeertarieven is oneerlijk tegenover autogebruikers</statement>
+  <statement id="32">Hogere parkeertarieven zouden in algemene zin een positief effect hebben op de maatschappij</statement>
+  <statement id="33">Het idee dat in bepaalde gebieden meer wordt geïnvesteerd dan in andere gebieden vind ik duiden op een ongelijke behandeling van bewoners</statement>
+  <statement id="34">Er moet fors geïnvesteerd worden in de verbeteringen van het OV netwerk</statement>
+  <statement id="35">Gemeenten moeten er voor zorgen dat het gebruik van OV minimaal net zo aantrekkelijk is voor de gemiddelde burger als autogebruik</statement>
+  <statement id="36">Een marktconform parkeertarief zou ideaal zijn</statement>
+  <statement id="37">De CROW normen voor parkeerbeleid zouden juridisch bindend moeten zijn </statement>
+  <statement id="38">Er zou een limiet moeten komen aan de hoogte van parkeertarieven die gemeenten mogen heffen</statement>
+  <statement id="39">Inkomsten uit betaald parkeren moeten terugvloeien naar de buurt waarin ze zijn opgehaald</statement>
+  <statement id="40">Het aantal aangeboden parkeerplaatsen dient enigszins beperkt te blijven; een maximum aantal parkeerplekken is soms gewenst.</statement>
+  <statement id="41">Gemeenten dienen er voor te zorgen dat er ten alle tijden voldoende parkeerplaatsen beschikbaar zijn</statement>
+  <statement id="42">Het liefst bieden we parkeren zoveel mogelijk gratis aan</statement>
+  <statement id="43">Het idee van dynamische parkeertarieven – afhankelijk van locatie, type voertuig, tijdstip en uitstoot – juich ik toe</statement>
+  <statement id="44">Gemeenten moeten al het opgehaalde parkeergeld in de gemeenten in één pot gooien, en het vervolgens zo gericht mogelijk verdelen over verschillende wijken</statement>
+</statements>
