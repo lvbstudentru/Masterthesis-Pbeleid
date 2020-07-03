@@ -41,7 +41,7 @@ li.draggable {
     width: 100%;
     height: 60px;
     padding: 3px;
-    margin-bottom: -1px;
+    margin-bottom: 1px;
 }
 
 .cell .swappable, .cell .draggable-small {
